@@ -589,7 +589,6 @@ return ( <main>
     </div>
   </footer>
 </main>
-```
 
 );
 }
