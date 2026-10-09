@@ -1,3 +1,4 @@
+"use client";
 import Link from "next/link";
 import { GraduationCap, LayoutDashboard, Users, ClipboardList, Wallet, CalendarCheck, MessageSquare, Settings, LogOut, Bell, ArrowUpRight, Download, ChevronRight, BookOpen, Clock } from "lucide-react";
 const menu=[["Dashboard",LayoutDashboard],["My children",Users],["Results",ClipboardList],["Fee payments",Wallet],["Attendance",CalendarCheck],["Messages",MessageSquare]];
